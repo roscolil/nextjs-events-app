@@ -1,0 +1,18 @@
+.btn {
+  background-color: #03be9f;
+  border: 1px solid #03be9f;
+  border-radius: 6px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  color: #dafff7;
+  cursor: pointer;
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #02afa1;
+  border-color: #02afa1;
+}
